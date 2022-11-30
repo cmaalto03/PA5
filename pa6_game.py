@@ -44,6 +44,6 @@ def main():
     car = Drawing('pyramids', 'hard')
     car.display(win)
     
-    stuff = input("ad")
+    stuff = input("d")
 
 main()
